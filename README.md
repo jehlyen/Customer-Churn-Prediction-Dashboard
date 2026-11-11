@@ -157,7 +157,7 @@ The dashboard translates model outputs into actionable business insights, allowi
 
 ### Power BI Dashboard Preview
 
-![Customer Churn Dashboard](images/customer-churn-dashboard.png)
+![Customer Churn Dashboard](/Churn_Prediction_Dashboard.png)
 
 ## 5. Business Applications & Recommendations
 
